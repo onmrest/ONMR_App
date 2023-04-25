@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/android_path_provider-0.3.0/android" />
+            <option value="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/connectivity_plus-3.0.2/android" />
+            <option value="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/device_info_plus-8.1.0/android" />
+            <option value="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_barcode_scanner-2.0.0/android" />
+            <option value="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_inappwebview-5.7.2+3/android" />
+            <option value="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/flutter_plugin_android_lifecycle-2.0.9/android" />
+            <option value="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/geolocator_android-4.1.7/android" />
+            <option value="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/google_mobile_ads-1.2.0/android" />
+            <option value="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/launch_review-3.0.1/android" />
+            <option value="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/location-4.4.0/android" />
+            <option value="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/onesignal_flutter-3.4.1/android" />
+            <option value="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/package_info_plus-3.0.3/android" />
+            <option value="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/path_provider_android-2.0.24/android" />
+            <option value="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/permission_handler_android-10.2.0/android" />
+            <option value="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/restart_app-1.1.2/android" />
+            <option value="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/share_plus-6.3.1/android" />
+            <option value="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/shared_preferences_android-2.0.17/android" />
+            <option value="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/store_redirect-2.0.1/android" />
+            <option value="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/uni_links-0.5.1/android" />
+            <option value="$USER_HOME$/AppData/Local/Pub/Cache/hosted/pub.dev/url_launcher_android-6.0.25/android" />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

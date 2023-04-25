@@ -1,0 +1,8 @@
+{
+  "api_base_url": "https://onmrhost.com/app/",
+  "firstColor": "#002CAE",
+  "secondColor": "#04B4F0",
+  "appIdOneSignal": "619beb8b-da05-448d-90b5-e9127b157c5b",
+  "defaultLanguage": "ar",
+  "deeplink": "app.onmrhost.app"
+}

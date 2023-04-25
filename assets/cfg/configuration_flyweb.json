@@ -1,0 +1,8 @@
+{
+  "api_base_url": "https://positifmobile.com/jamrekha/admin/",
+  "firstColor": "#181A1E",
+  "secondColor": "#181A1E",
+  "appIdOneSignal": "90b0425f-3d32-429a-a7f5-cc4e5e82fe49",
+  "defaultLanguage": "en",
+  "deeplink": "app.onmrhost.app"
+}

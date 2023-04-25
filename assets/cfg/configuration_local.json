@@ -1,0 +1,8 @@
+{
+  "api_base_url": "http://192.168.1.2:8080/",
+  "firstColor": "#7b50dc",
+  "secondColor": "#597ae2",
+  "appIdOneSignal": "90b0425f-3d32-429a-a7f5-cc4e5e82fe49",
+  "defaultLanguage": "en",
+  "deeplink": "app.onmrhost.app"
+}

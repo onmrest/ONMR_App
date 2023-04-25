@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "634628074177",
+    "project_id": "onmrhostapp",
+    "storage_bucket": "onmrhostapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634628074177:android:76b873b83d03a4dcb90240",
+        "android_client_info": {
+          "package_name": "app.onmrhost.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "634628074177-cg6n13nocagaau9k18egfoofh8puo6v7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3XMfk9ZYYQh4-vAl-ntzeK4VJ-GJQFxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "634628074177-cg6n13nocagaau9k18egfoofh8puo6v7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
